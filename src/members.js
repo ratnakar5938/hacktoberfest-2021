@@ -6,6 +6,23 @@ export default [
     portfolio: 'https://riteshpatil.dev',
   },
   {
+    github: 'kesarivenkatesh',
+    linkedin: 'https://linkedin.com/in/kesarivenkatesh',
+  },
+  {
+    github: 'sonali-012',
+    twitter: 'http://twitter.com/@SonaliS28627844',
+    linkedin: 'https://www.linkedin.com/in/sonali-sahu-7510a3211',
+  },
+
+  {
+    github: 'karanShaw000',
+    twitter: 'https://twitter.com/KaranShaw123',
+  },
+  {
+    github: 'padmajabhol',
+  },
+  {
     github: 'abhibhaw',
     twitter: 'https://twitter.com/imabhibhaw',
     portfolio: 'https://abhibhaw.co',
